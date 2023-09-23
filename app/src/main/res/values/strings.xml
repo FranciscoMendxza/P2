@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica 2_7s21</string>
+    <string name="texto1p1">Programando Android</string>
+    <string name="img1">Imagen 1</string>
+    <string name="texto2p2">Bienvenido</string>
+    <string name="texto3p2">Pagina 2 del programa</string>
+    <string name="img2">Imagen 2</string>
+</resources>
